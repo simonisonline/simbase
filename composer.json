@@ -16,6 +16,6 @@
  ],
     "minimum-stability": "dev",
     "require": {
-        "simonisonline/orherdemoother": "1.1.0.*@dev"
+        "simonisonline/orherdemoother": "dev-master"
     }
 }
