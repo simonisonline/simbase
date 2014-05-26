@@ -1,0 +1,15 @@
+{
+    "name": "simonisonline/simbase",
+    "description": "base demo",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Simon Ploegh",
+            "email": "info@simonisonline.nl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
