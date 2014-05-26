@@ -8,9 +8,14 @@
             "email": "info@simonisonline.nl"
         }
     ],
-
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/simonisonline/orherdemoother.git"
+        }
+    ],
     "minimum-stability": "dev",
     "require": {
-        "simonisonline/orherdemoother": "dev-master"
+        "simonisonline/orherdemoother": "1.1.0.x-dev"
     }
 }
