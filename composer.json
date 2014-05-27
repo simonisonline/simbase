@@ -16,6 +16,11 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "simonisonline/orherdemoother": "1.0"
+        "simonisonline/orherdemoother": "1.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "SimBase\\": "basecore"
+            }
     }
 }
